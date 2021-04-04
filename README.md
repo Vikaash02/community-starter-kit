@@ -1,10 +1,17 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+The project is intended to learn about the informal standards the community has adopted to make it easier to find and contribute to projects.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+. Teaches to add a repository description
+. Teaches to edit and merge README.md
+. Teaches to create and merge user documentation
+. Teaches to add and merge an issue template
+. Tecahes to add and merge a CONTRIBUTING guide
+. Teaches to add and merge a license
+. Teaches to add and merge the Code of Conduct
+
 
 ## Getting started
 
